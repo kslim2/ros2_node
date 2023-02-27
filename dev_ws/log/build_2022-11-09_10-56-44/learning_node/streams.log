@@ -1,0 +1,37 @@
+[0.692s] Invoking command in '/home/mike/ros2_cool/01-ros-node/dev_ws/src/learning_node': PYTHONPATH=/home/mike/ros2_cool/01-ros-node/dev_ws/install/learning_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learning_node build --build-base /home/mike/ros2_cool/01-ros-node/dev_ws/build/learning_node/build install --prefix /home/mike/ros2_cool/01-ros-node/dev_ws/install/learning_node --record /home/mike/ros2_cool/01-ros-node/dev_ws/build/learning_node/install.log --single-version-externally-managed
+[0.964s] running egg_info
+[0.964s] creating ../../build/learning_node/learning_node.egg-info
+[0.964s] writing ../../build/learning_node/learning_node.egg-info/PKG-INFO
+[0.965s] writing dependency_links to ../../build/learning_node/learning_node.egg-info/dependency_links.txt
+[0.965s] writing entry points to ../../build/learning_node/learning_node.egg-info/entry_points.txt
+[0.965s] writing requirements to ../../build/learning_node/learning_node.egg-info/requires.txt
+[0.966s] writing top-level names to ../../build/learning_node/learning_node.egg-info/top_level.txt
+[0.966s] writing manifest file '../../build/learning_node/learning_node.egg-info/SOURCES.txt'
+[0.968s] reading manifest file '../../build/learning_node/learning_node.egg-info/SOURCES.txt'
+[0.969s] writing manifest file '../../build/learning_node/learning_node.egg-info/SOURCES.txt'
+[0.969s] running build
+[0.969s] running build_py
+[0.969s] creating /home/mike/ros2_cool/01-ros-node/dev_ws/build/learning_node/build
+[0.970s] creating /home/mike/ros2_cool/01-ros-node/dev_ws/build/learning_node/build/lib
+[0.970s] creating /home/mike/ros2_cool/01-ros-node/dev_ws/build/learning_node/build/lib/learning_node
+[0.970s] copying learning_node/node_helloworld.py -> /home/mike/ros2_cool/01-ros-node/dev_ws/build/learning_node/build/lib/learning_node
+[0.970s] copying learning_node/__init__.py -> /home/mike/ros2_cool/01-ros-node/dev_ws/build/learning_node/build/lib/learning_node
+[0.970s] running install
+[0.970s] running install_lib
+[0.972s] creating /home/mike/ros2_cool/01-ros-node/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node
+[0.972s] copying /home/mike/ros2_cool/01-ros-node/dev_ws/build/learning_node/build/lib/learning_node/node_helloworld.py -> /home/mike/ros2_cool/01-ros-node/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node
+[0.972s] copying /home/mike/ros2_cool/01-ros-node/dev_ws/build/learning_node/build/lib/learning_node/__init__.py -> /home/mike/ros2_cool/01-ros-node/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node
+[0.972s] byte-compiling /home/mike/ros2_cool/01-ros-node/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node/node_helloworld.py to node_helloworld.cpython-310.pyc
+[0.973s] byte-compiling /home/mike/ros2_cool/01-ros-node/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node/__init__.py to __init__.cpython-310.pyc
+[0.973s] running install_data
+[0.974s] creating /home/mike/ros2_cool/01-ros-node/dev_ws/install/learning_node/share/ament_index
+[0.974s] creating /home/mike/ros2_cool/01-ros-node/dev_ws/install/learning_node/share/ament_index/resource_index
+[0.975s] creating /home/mike/ros2_cool/01-ros-node/dev_ws/install/learning_node/share/ament_index/resource_index/packages
+[0.975s] copying resource/learning_node -> /home/mike/ros2_cool/01-ros-node/dev_ws/install/learning_node/share/ament_index/resource_index/packages
+[0.975s] copying package.xml -> /home/mike/ros2_cool/01-ros-node/dev_ws/install/learning_node/share/learning_node
+[0.975s] running install_egg_info
+[0.977s] Copying ../../build/learning_node/learning_node.egg-info to /home/mike/ros2_cool/01-ros-node/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node-0.0.0-py3.10.egg-info
+[0.978s] running install_scripts
+[0.998s] Installing node_helloworld script to /home/mike/ros2_cool/01-ros-node/dev_ws/install/learning_node/lib/learning_node
+[0.999s] writing list of installed files to '/home/mike/ros2_cool/01-ros-node/dev_ws/build/learning_node/install.log'
+[1.046s] Invoked command in '/home/mike/ros2_cool/01-ros-node/dev_ws/src/learning_node' returned '0': PYTHONPATH=/home/mike/ros2_cool/01-ros-node/dev_ws/install/learning_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/learning_node build --build-base /home/mike/ros2_cool/01-ros-node/dev_ws/build/learning_node/build install --prefix /home/mike/ros2_cool/01-ros-node/dev_ws/install/learning_node --record /home/mike/ros2_cool/01-ros-node/dev_ws/build/learning_node/install.log --single-version-externally-managed
